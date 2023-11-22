@@ -4,6 +4,6 @@
 
 <img src="https://img.shields.io/static/v1?label=Overview&message=mcristhian&color=f8efd4&style=for-the-badge&logo=GitHub">
 
-<p> Estudando na Cubos Academy <br/> Eu sou desenvolvedor back-end </p>
+<p> Eu sou desenvolvedor back-end </p>
 
 <hr>
