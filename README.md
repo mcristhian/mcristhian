@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mcristhian" alt="mcristhian" /></a> </p>
 
-- 🔭 Atualmente estou desenvolvendo a [Urna](https://github.com/mcristhian/urna)
+- 👨‍💻 Atualmente estou desenvolvendo a [Urna](https://github.com/mcristhian/urna)
 
 - 💬 Pergunte-me sobre **JavaScript, Node.js, PostgreSQL, Git e Linux**
 
